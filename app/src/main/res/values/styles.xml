@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="img">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">295dp</item>
+    </style>
+
+    <style name="text2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:text">Styles and Material Design</item>
+    </style>
+
+    <style name="text3">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:text">Smokey Tours</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="text4">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Location: Manila, Luzon 1102 Philippines</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+    <style name="text5">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Distance from UST: 2.6 km</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">BACK</item>
+    </style>
+
+    <style name="button2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">NEXT</item>
+    </style>
+</resources>
